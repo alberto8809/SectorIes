@@ -1,0 +1,20 @@
+	 html, body {
+        height: 93%;
+        
+      }
+      #map {
+        height: 110%;
+      }
+
+      #map {
+        
+        float: right;   
+        width: 85%; 
+      }
+
+
+    #izq{ 
+        
+        width:15%; 
+        float:left; 
+    }  

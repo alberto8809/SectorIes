@@ -1,0 +1,30 @@
+#cabecera{
+    margin-top: 20px;
+}
+
+#left{
+    float:left;
+    clear: both;
+    background-color:#FFFFFF;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    width: 30%;
+    height: 700px;
+}
+
+#right{
+    float:right;
+    background-color: burlywood;
+    width: 69%;
+    height: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+#form{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    margin-top: 10%;
+}
+
